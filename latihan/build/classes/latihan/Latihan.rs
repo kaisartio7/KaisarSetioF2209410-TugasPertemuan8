@@ -1,0 +1,2 @@
+latihan.Segitiga
+latihan.Latihan
